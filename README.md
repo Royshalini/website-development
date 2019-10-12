@@ -1,25 +1,27 @@
 ## website-development
-*this is full stack development program stating from 13 oct 19
-To add this program in your repo follow these steps
+**this is full stack development program stating from 13 oct 19**
+**To add this program in your repo follow these steps
 
 ##…or create a new repository on the command line echo "# new" >> README.md
+```
+- git init
 
-git init
+- git add README.md
 
-git add README.md
+* git commit -m "first commit"
 
-git commit -m "first commit"
+*git remote add origin https://github.com/prince2kumar/new.git
 
-git remote add origin https://github.com/prince2kumar/new.git
+*git push -u origin master 
+``` 
+
+**…or push an existing repository from the command line
+
+```git remote add origin https://github.com/prince2kumar/new.git
 
 git push -u origin master
+```
 
-##…or push an existing repository from the command line
-
-git remote add origin https://github.com/prince2kumar/new.git
-
-git push -u origin master
-
-##…or import code from another repository
+**…or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
