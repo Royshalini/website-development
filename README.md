@@ -1,7 +1,7 @@
-## website-development
-**this is full stack development program stating from 13 oct 19
+# website-development
+## **this is full stack development program stating from 13 oct 19** 
 
-**To add this program in your repo follow these steps
+###### **To add this program in your repo follow these steps
 
 ##…or create a new repository on the command line echo "# new" >> README.md
 ```
